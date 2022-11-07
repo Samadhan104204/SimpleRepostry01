@@ -17,4 +17,9 @@ System.out.println(c);
 public class demo{
 public void Add()
 {System.out.println("new add method");
-}}
+}
+public void Demo(){
+System.out.println("Demo method")
+}
+}
+
