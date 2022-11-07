@@ -18,8 +18,15 @@ public class demo{
 public void Add()
 {System.out.println("new add method");
 }
+<<<<<<< Updated upstream
 public void Demo(){
 System.out.println("Demo method")
 }
 }
 
+=======
+public void Test(){
+System.out.println("new test method")
+}
+}
+>>>>>>> Stashed changes
